@@ -1,2 +1,6 @@
 hie
+<<<<<<< HEAD
 this is done here in D:
+=======
+this is change done in github.com
+>>>>>>> b7c87d34c4e9695594171d5a241e42b621c80e8a
